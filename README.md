@@ -1,0 +1,1 @@
+NinjaManager_CSharp_MVVM
